@@ -1,3 +1,30 @@
 # css3-progress-ring
 https://idiotwu.me/css3-progress-ring/
 付原文地址，小小的修改一下
+## 参数配置
+<table>  
+<thead>  
+<tr>  
+<th>选项</th>  
+<th>描述</th>  
+<th>默认值</th>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>data-precent</td>  
+<td>进度的百分比，例如<code>data-precent="67"</code></td>  
+<td>75</td>  
+</tr>  
+<tr>  
+<td>data-color</td>  
+<td>轨道颜色和进度颜色，例如<code>data-color="blue,yellow"</code>，则轨道颜色为<code>blue</code>，进度颜色为<code>yellow</code></td>  
+<td>#f0f0f0,#6ec84e</td>  
+</tr>  
+<tr>  
+<td>data-duration</td>  
+<td>动画持续时间（秒），例如<code>data-duration="4"</code>，则动画播放4秒</td>  
+<td>1.5</td>  
+</tr>  
+</tbody>  
+</table>
